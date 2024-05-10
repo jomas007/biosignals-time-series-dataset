@@ -73,11 +73,3 @@ If you want to **use your own** source of videos:
 ## Points for Improvement
 
 Spatial and Temporal Normalizer: Further improve aspects with low image quality.
-
-## References
-
-[ARTIGO CBA]
-
-[ARTIGO IEEE]
-
-[OUTRAS]
