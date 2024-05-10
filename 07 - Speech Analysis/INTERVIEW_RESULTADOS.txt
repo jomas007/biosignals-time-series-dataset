@@ -1,0 +1,6 @@
+palavra: INTERVIEW
+video_id: 6
+frame_begin: 131
+frame_end: 146
+total de ocorrências: 2
+frames de início: [131, 2615]

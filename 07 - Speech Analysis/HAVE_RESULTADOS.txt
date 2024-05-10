@@ -1,0 +1,6 @@
+palavra: HAVE
+video_id: 37
+frame_begin: 744
+frame_end: 754
+total de ocorrências: 1
+frames de início: [0]

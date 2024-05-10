@@ -1,0 +1,6 @@
+palavra: ABOUT
+video_id: 11
+frame_begin: 2026
+frame_end: 2040
+total de ocorrências: 2
+frames de início: [2087, 3572]
