@@ -48,22 +48,22 @@ In Figure 3 below, the main modules comprising the two stages (A and B) are indi
 
 For a more detailed description of each block:
 
-- [Data generation flow](https://github.com/jomas007/biosignals-time-series-dataset/wiki/Blocks-Description)
+- [Data generation flow](./blocks_description.md#Windows)
 
 ## How to install
 
-- [Installation guide for **Windows**](https://github.com/jomas007/biosignals-time-series-dataset/wiki/How-to-install#windows)
-- [Installation guide for **Linux**](https://github.com/jomas007/biosignals-time-series-dataset/wiki/How-to-install#linux)
+- [Installation guide for **Windows**](./how_to_install.md#windows)
+- [Installation guide for **Linux**](./how_to_install.md#linux)
 
 ## How to run the application
 
 If you want to **just run the application** and see how it works:
 
-- [Run the application guide](https://github.com/jomas007/biosignals-time-series-dataset/wiki/How-to-use#Run-the-application)
+- [Run the application guide](./how_to_use.md#Run/\the\/application/\guide)
 
 If you want to **use your own** source of videos:
 
-- [Do it your self guide](https://github.com/jomas007/biosignals-time-series-dataset/wiki/How-to-use#Do-it-your-self)
+- [Do it your self guide](./how_to_use.md#Do/\it\/your/\self/\guide)
 
 ## Future Developments
 
@@ -73,3 +73,11 @@ If you want to **use your own** source of videos:
 ## Points for Improvement
 
 Spatial and Temporal Normalizer: Further improve aspects with low image quality.
+
+## References
+
+[ARTIGO CBA]
+
+[ARTIGO IEEE]
+
+[OUTRAS]
