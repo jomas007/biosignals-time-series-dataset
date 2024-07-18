@@ -1,2 +1,4 @@
 *.dat*
 *.sh*
+.ipynb_checkpoints/
+
